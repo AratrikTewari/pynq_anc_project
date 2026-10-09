@@ -1,0 +1,22 @@
+# Vivado generated project directories & caches
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/utils_1/
+.Xil/
+
+# Vivado runtime logs & journals
+*.log
+*.jou
+*.str
+*.pb
+*.wdb
+*.vcd
+xsim.dir/
+
+# Bitstreams (optional: track via GitHub Releases instead)
+*.bit
+*.bin
+*.hwh
